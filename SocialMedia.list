@@ -117,3 +117,7 @@ DOMAIN-KEYWORD,pixiv,PROXY
 
 #tiktok
 HOST-SUFFIX,tiktokv.com,PROXY
+
+#pinterest
+HOST-SUFFIX,pinterest.com,PROXY
+HOST-SUFFIX,pinboard.in,PROXY
