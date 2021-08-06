@@ -121,3 +121,6 @@ HOST-SUFFIX,tiktokv.com,PROXY
 #pinterest
 HOST-SUFFIX,pinterest.com,PROXY
 HOST-SUFFIX,pinboard.in,PROXY
+
+#tumblr
+HOST-SUFFIX,tumblr.com,PROXY
