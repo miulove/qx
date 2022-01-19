@@ -1,17 +1,10 @@
 # > bilibili
-DOMAIN-SUFFIX,biliapi.net,StreamingSE
-DOMAIN-SUFFIX,biliapi.com,StreamingSE
-DOMAIN-SUFFIX,bilibili.com,StreamingSE
 DOMAIN,api.bilibili.com,StreamingSE
-DOMAIN,www.bilibili.com,StreamingSE
+DOMAIN,app.bilibili.com,StreamingSE
+DOMAIN,grpc.biliapi.net,StreamingSE
 DOMAIN,upos-hz-mirrorakam.akamaized.net,StreamingSE
-DOMAIN-SUFFIX,bilivideo.com,StreamingSE
-
+DOMAIN-KEYWORD,cn-hk-eq-bcache-,StreamingSE
 # > 愛奇藝台灣站
 DOMAIN,cache.video.iqiyi.com,StreamingSE
-# > 芒果TV国际
-DOMAIN-SUFFIX,api.mgtv.com,StreamingSE
-# > WeTV
-DOMAIN-SUFFIX,wetv.vip,StreamingSE
-DOMAIN-SUFFIX,wetvinfo.com,StreamingSE
- 
+IP-CIDR,116.211.202.206/32,StreamingSE
+IP-CIDR,116.211.202.216/32,StreamingSE
