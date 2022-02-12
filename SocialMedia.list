@@ -124,3 +124,6 @@ HOST-SUFFIX,pinboard.in,PROXY
 
 #tumblr
 DOMAIN-KEYWORD,tumblr.com,PROXY
+
+#wenku8
+HOST-SUFFIX, wenku8.com,PROXY
