@@ -58,8 +58,8 @@ USER-AGENT,com.google.ios.youtube*,ForeignMedia
 USER-AGENT,YouTube*,ForeignMedia
 DOMAIN-SUFFIX,googlevideo.com,ForeignMedia
 DOMAIN-SUFFIX,youtube.com,ForeignMedia
-DOMAIN,youtubei.googleapis.com,ForeignMedia
 DOMAIN-SUFFIX,ytimg.com,ForeignMedia
-DOMAIN-SUFFIX,ggpht.com,ForeignMedia 
+DOMAIN-SUFFIX,ggpht.com,ForeignMedia
+DOMAIN,youtubei.googleapis.com,ForeignMedia
 # > TikTok
 DOMAIN-SUFFIX,tiktokcdn.com,ForeignMedia
