@@ -1,2 +1,5 @@
-DOMAIN-SUFFIX,ad.pixnet.in,REJECT
-DOMAIN-SUFFIX,ad.pixnet.net,REJECT
+DOMAIN-SUFFIX,ads-pixiv.net,REJECT
+DOMAIN-SUFFIX,open-pixon.ads-pixiv.net,REJECT
+DOMAIN-SUFFIX,pixon.ads-pixiv.net,REJECT
+DOMAIN-SUFFIX,tag-store.ads-pixiv.net,REJECT
+DOMAIN-SUFFIX,pixiv.org,REJECT
