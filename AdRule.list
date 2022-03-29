@@ -21,3 +21,7 @@ DOMAIN,twittercounter.com,REJECT
 DOMAIN,twitterforweb.com,REJECT
 DOMAIN,twittericon.com,REJECT
 DOMAIN,twittermysite.com,REJECT
+
+#facebook 去广告
+host-suffix,staticxx.facebook.com,REJECT
+host-suffix,facebookma.cn,REJECT
