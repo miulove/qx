@@ -128,3 +128,8 @@ DOMAIN-KEYWORD,tumblr.com,PROXY
 
 #wenku8
 HOST-SUFFIX, wenku8.com,PROXY
+
+# > Discord
+HOST-SUFFIX,discord.com,PROXY
+HOST-SUFFIX,discordapp.com,PROXY
+HOST-SUFFIX,discordapp.net,PROXY
