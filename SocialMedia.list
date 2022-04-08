@@ -133,3 +133,8 @@ HOST-SUFFIX, wenku8.com,PROXY
 HOST-SUFFIX,discord.com,PROXY
 HOST-SUFFIX,discordapp.com,PROXY
 HOST-SUFFIX,discordapp.net,PROXY
+
+# 长毛象
+HOST-SUFFIX,pawoo.net,PROXY
+HOST-SUFFIX,cmx.im,PROXY
+HOST-SUFFIX,seaofog.com,PROXY
