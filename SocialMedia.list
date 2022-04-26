@@ -141,3 +141,6 @@ HOST-SUFFIX,seaofog.com,PROXY
 
 #moon fm
 HOST-SUFFIX,moon.fm,PROXY
+
+#tumblr
+DOMAIN-SUFFIX,tumblr.com,PROXY
