@@ -144,3 +144,6 @@ HOST-SUFFIX,moon.fm,PROXY
 
 #tumblr
 DOMAIN-SUFFIX,tumblr.com,PROXY
+
+#BBC
+DOMAIN-SUFFIX,api.bbci.co.uk,PROXY
