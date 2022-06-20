@@ -148,3 +148,10 @@ DOMAIN-SUFFIX,tumblr.com,PROXY
 #BBC
 DOMAIN-SUFFIX,bbci.co.uk,PROXY
 DOMAIN-SUFFIX,bbc.co.uk,PROXY
+
+# truthsocial
+DOMAIN-SUFFIX,sp.rmbl.ws,PROXY
+DOMAIN-SUFFIX,rumble.com,PROXY
+DOMAIN-SUFFIX,rumble.com,PROXY
+DOMAIN-SUFFIX,truthsocial.com,PROXY
+DOMAIN-SUFFIX,api.caiyunapp.com,PROXY
