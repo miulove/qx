@@ -9,8 +9,8 @@
  * 3. alwaysNotice控制是否重复显示已经看过的图片，如果设置为false，则只会显示更新的图片。
  */
 
-let channels = ["pixiv_top50"];
-let maxMedias = 1;
+let channels = ["pixiv_top50", "MikuArt"];
+let maxMedias = 6;
 let alwaysNotice = false;
 
 const $ = API("telegram");
