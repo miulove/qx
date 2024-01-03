@@ -155,3 +155,7 @@ DOMAIN-SUFFIX,rumble.com,PROXY
 DOMAIN-SUFFIX,rumble.com,PROXY
 DOMAIN-SUFFIX,truthsocial.com,PROXY
 DOMAIN-SUFFIX,api.caiyunapp.com,PROXY
+
+# Copilot
+HOST-SUFFIX,bing.com,PROXY
+HOST-SUFFIX,copilot.microsoft.com,PROXY
